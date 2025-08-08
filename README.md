@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elaine
 - 👀 I’m interested in gen ai, tennis and photography
-- 🌱 I’m currently working on gen ai startup
+- 🌱 I’m currently working on ai startup
 - 💞️ I’m looking to collaborate on building cool products
-- 📫 How to reach me: agptjourney@gmail.com
+- 📫 How to reach me: elaine@prowgrow.ai
