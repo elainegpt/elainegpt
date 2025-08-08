@@ -2,4 +2,4 @@
 - 👀 I’m interested in gen ai, tennis and photography
 - 🌱 I’m currently working on ai startup
 - 💞️ I’m looking to collaborate on building cool products
-- 📫 How to reach me: elaine@prowgrow.ai
+- 📫 How to reach me: elaine@prosgrow.ai
